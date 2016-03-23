@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_id": "api-project-4921591333",
+    "project_number": "4921591333",
+    "name": "MyGoogleAPI"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4921591333:android:27d689d63f1b7a06",
+        "client_id": "android:com.google.samples.quickstart.signin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.signin",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4921591333-k4qc3elme0hedcngjo950fc50jbmsjuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.samples.quickstart.signin",
+            "certificate_hash": "E67BF860AEE60F3CC8CAFE6DE6D688250AAC42EF"
+          }
+        },
+        {
+          "client_id": "4921591333-psrenmdg3a11euaf9ii5fd5l435dup5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4921591333:android:d95793e3d4d0bc44",
+        "client_id": "android:com.mac.isaac.oauthchris",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.mac.isaac.oauthchris",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4921591333-1o5lqai1t72b74ndmablj9rn4ravbjqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mac.isaac.oauthchris",
+            "certificate_hash": "E67BF860AEE60F3CC8CAFE6DE6D688250AAC42EF"
+          }
+        },
+        {
+          "client_id": "4921591333-psrenmdg3a11euaf9ii5fd5l435dup5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4921591333:android:11bc5c3839a69cb2",
+        "client_id": "android:com.mac.isaac.googleanalyticsapp",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.mac.isaac.googleanalyticsapp",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4921591333-psrenmdg3a11euaf9ii5fd5l435dup5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-75435438-1"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4921591333:android:4431f5a57f839f8f",
+        "client_id": "android:com.mac.isaac.sunshine.app",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.mac.isaac.sunshine.app",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4921591333-psrenmdg3a11euaf9ii5fd5l435dup5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
